@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.xgame.tictactoe",
+      "sha256_cert_fingerprints": [
+        "95:04:18:C6:21:21:14:FA:E5:CA:18:4F:94:6C:21:D6:DB:C0:36:05:0F:6E:BE:6B:92:05:31:7F:48:B1:1E:50"
+      ]
+    }
+  }
+]
